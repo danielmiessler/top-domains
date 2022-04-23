@@ -1,0 +1,15 @@
+google.com
+tiktok.com
+facebook.com
+microsoft.com
+apple.com
+amazon.com
+youtube.com
+yandex.com
+netflix.com
+vk.com
+mozilla.org
+whatsapp.com
+instagram.com
+cloudflare.com
+twitter.com
